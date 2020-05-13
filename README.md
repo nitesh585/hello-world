@@ -1,7 +1,6 @@
 # hello-world
-just another repository
 
-hii My name is nitesh
+My name is Nitesh.hello beginners.
 
 I am student and trying to explore , more about the github.
-I wanna to become a very good programmer.
+I wanna become a very good programmer.
